@@ -1,4 +1,4 @@
-# Project for Courseral Course: Getting And Cleaning Data
+# Project for Coursera Course: Getting And Cleaning Data
 
 This repository is the final project for the Coursera course, Getting and Cleaning Data:
 https://www.coursera.org/learn/data-cleaning/peer/FIZtT/getting-and-cleaning-data-course-project
