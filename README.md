@@ -1,7 +1,10 @@
 # gettingAndCleaningData
-Coursera Data Science Specialization- Getting and Cleaning Data Project
+This repository is the final project for the Coursera course, Getting and Cleaning Data:
+https://www.coursera.org/learn/data-cleaning/peer/FIZtT/getting-and-cleaning-data-course-project
 
-Download data for the project:
+About Assignment:
+Create a tidy dataset from the data collected 
+To run script, Download data for the project:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
