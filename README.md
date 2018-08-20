@@ -3,8 +3,9 @@ This repository is the final project for the Coursera course, Getting and Cleani
 https://www.coursera.org/learn/data-cleaning/peer/FIZtT/getting-and-cleaning-data-course-project
 
 About Assignment:
-Create a tidy dataset from the data collected 
-To run script, Download data for the project:
+Create a tidy dataset from the data collected Samsung smartphone sensors. The dataset contains data from 30 individuals wearing the sensor during six activities- walking, walking_upstairs, walking_downstairs, sitting, standing, laying. The dataset was devided into two groups- with 70% in training set and 30% in test set. For this project- the two datasets were merged. From the merged data set, only measurements on the mean and standard deviation were retained. The average of these columns was calculated for each subject, grouped by category.
+
+To run script, download data for the project:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
@@ -17,7 +18,7 @@ The R script run_analysis.R does the following:
 - From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 This repository contains:
-- README.md, provides an overview of assignment and contents of repository.
-- tidy_data.txt, the data set created through the script.
-- CodeBook.md, the code book, which describes the variables in the tidy dateset.
-- run_analysis.R, the R script that was used to create the data set.
+- README.md: provides an overview of assignment and contents of repository.
+- tidy_data.txt: the data set created through the script.
+- CodeBook.md: the code book, which describes the variables in the tidy dateset.
+- run_analysis.R: the R script that was used to create the data set.
